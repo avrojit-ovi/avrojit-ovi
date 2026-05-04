@@ -315,32 +315,6 @@ class OviChowdhuryJoy:
 
 ---
 
-## 🤝 Community & Leadership
-
-### **Co-Founder & Second in Command** | Garuda Cyber Shield & Garuda Cyber Intelligence Network
-**2023 - Present**
-
-- 🛡️ Mission-driven cybersecurity organization protecting digital communities
-- 👥 Leading 200+ active members across Bangladesh
-- 🎓 Conducting ethical hacking and cybersecurity awareness training
-- 🌐 **Platform:** garudacybershield.org | **Facebook:** 35,000+ followers | **Telegram:** t.me/Garuda_Cyber_Shield
-
-### **Divisional Head** | ICT Olympiad Bangladesh (ICTOB)
-**2023 - Present**
-
-- 🎯 Leading Chittagong Division with 11+ district teams
-- 📚 Coordinating programming, web development, robotics, and IoT segments
-- 👨‍🏫 Empowering future generation with technology
-
-### **Company Sergeant Major (CSM)** | Bangladesh National Cadet Corps (BNCC)
-**2017 - 2020**
-
-- 🎖️ Attained highest non-commissioned officer rank
-- 💪 Military training in discipline and leadership
-- 🏆 Completed rigorous battalion and central camping
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -530,7 +504,7 @@ I offer professional services in:
 ## 📚 Recent Blog Posts & Resources
 
 - 🔐 [IoT Security Best Practices](https://avrojitovi.com/blog)
-- 🛡️ [Cybersecurity in Developing Countries](https://garaudacybershield.org)
+- 🛡️ [Cybersecurity in Developing Countries](https://.org)
 - 🤖 [Getting Started with Arduino IoT](https://avrojitovi.com/tutorials)
 - 💻 [Full-Stack Development Guide](https://avrojitovi.com/guides)
 
