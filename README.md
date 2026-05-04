@@ -517,7 +517,7 @@ I offer professional services in:
 - 🎓 Complete B.Sc in Computer Science & Engineering
 - 🚀 Launch 5+ innovative open-source projects
 - 🏆 Achieve expert-level certifications in emerging tech
-- 👥 Grow Garuda Cyber Shield to 500+ members
+- 👥 Grow Kritanta to 500+ members
 - 📖 Publish technical articles and tutorials
 - 🌟 Contribute to major open-source initiatives
 - 🎤 Speaker at major tech conferences
