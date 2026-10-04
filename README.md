@@ -467,7 +467,7 @@ I offer professional services in:
 | **📧 Email** | ovi.chy.st@gmail.com | [Email](mailto:ovi.chy.st@gmail.com) |
 | **📱 Phone** | +880 1333 121292 | [Call/WhatsApp](https://wa.me/01333121292) |
 | **🌐 Website** | avrojitovi.com | [Visit](https://avrojitovi.com) |
-| **💼 Portfolio** | kritantatech.com/ovi | [Visit](https://kritantatech.com/ovi) |
+| **💼 Portfolio** | avrojitovi.com | [Visit](https://avrojitovi.com) |
 | **💼 LinkedIn** | linkedin.com/in/ovichy | [Connect](https://www.linkedin.com/in/ovichy/) |
 | **📘 Facebook** | facebook.com/avrojit.ovi | [Follow](https://www.facebook.com/avrojit.ovi) |
 | **✈️ Telegram** | @AvrojitOvi | [Message](https://t.me/AvrojitOvi) |
